@@ -63,6 +63,7 @@ DEFAULT_GROUPING_OPTIONS = {
 		"A few times a year",
 		"Once or twice a month",
 		#"Once a week",
+		#"More than once a week"
 	},
 	"indifferentist_excluded_religions": {
 		"Unaffiliated",
